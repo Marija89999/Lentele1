@@ -1,0 +1,29 @@
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+thead th {
+    background-color: #FFB700;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+tbody tr {
+    background-color: #3E1A74;
+    color: white;
+}
+
+tbody td {
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+th, td {
+    border: 2px solid #FFB700;
+}
